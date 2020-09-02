@@ -1,2 +1,0 @@
-# GreenTemplate
-Green stylesheet Template
